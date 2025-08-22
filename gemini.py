@@ -10,7 +10,6 @@ from dateutil import parser as date_parser
 
 # --- Configuration ---
 # IMPORTANT: Paste your Gemini API key here
-GEMINI_API_KEY = "AIzaSyBM7VJIRHvzpLyL3CXQ1bglsVllzwwtgRs"
 
 VALIDATION_FILENAME = "cleaned_dataset.xlsx"
 LLM_TO_TEST = "gemini-1.5-flash-latest" 
